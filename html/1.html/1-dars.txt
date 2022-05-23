@@ -1,0 +1,30 @@
+1.web site haqida  afzaliklari
+2.web site strukturasi
+3.web site yonalishlari
+4.front-end va back-end haqida va texnologiyalari va misollar bilan
+5.kod editor vscode ornatish va extenshinlar
+6.htmlga kirish
+---sayt strukturasi
+---paka ochish strukturasi
+***-amlaiy 
+---avlogi, juft toqteglar
+---html,head,meta,title,body
+---natija
+---kod yozish qoidasi va qulayliklari
+---matnlar bilan ishlash h1, p, lorem=>object text hqida ,br, hr
+---amaliyot 
+---stylelar bilan ishlash
+****---u,b,i,del,s,sub, sup,
+****-amaliyot
+---royhatlar,
+---ul,li
+***-amaliyot test tuzish
+---table
+---amaliyot 
+---img,video,audio,iframe youtube link,map qoyish
+---section,div,footer,main teglari 
+****---amaliyot
+--- formlar bilan ishlash get, post
+---cssga kirish
+
+
